@@ -43,3 +43,8 @@ body{
 	position: absolute;
 	top: 630PX;
 }
+video{
+	position: center;
+	width: 80%;
+	height: 80%;
+	}
